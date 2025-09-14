@@ -57,4 +57,3 @@ if __name__ == "__main__":
     else:
         print("Erro ao criar banco.")
 
-        #teste commit git
