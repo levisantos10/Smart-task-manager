@@ -56,3 +56,5 @@ if __name__ == "__main__":
         print("Pronto! Banco configurado.")
     else:
         print("Erro ao criar banco.")
+
+        #teste commit git
