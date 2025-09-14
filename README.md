@@ -6,6 +6,7 @@ Sistema de gestão de tarefas inteligente com IA.
 ## Tecnologias
 - Backend: Python (FastAPI)
 - Frontend: React.js
+- Database: MySQL
 - IA/ML: scikit-learn, pandas
 
 ## Status
